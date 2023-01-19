@@ -1,0 +1,5 @@
+rootProject.name = 'GradPro'
+include 'db'
+include 'api'
+include 'service'
+
